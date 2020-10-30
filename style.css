@@ -20,6 +20,15 @@ body {
   margin: 0;
 }
 
+.main-title {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.main-title label span {
+  font-size: 2.5rem;
+}
+
 .container {
   margin: 30px auto;
   width: 350px;
@@ -166,4 +175,6 @@ input[type='number'] {
 
 footer {
   margin-bottom: auto;
+  padding-bottom: 4rem;
+  text-align: center;
 }
